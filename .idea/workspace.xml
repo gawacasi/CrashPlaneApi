@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c66094f-60cf-4d30-824e-49d82eed2661" name="Changes" comment="[ API + PREDICAO + CONVERT INT64 ]">
-      <change beforePath="$PROJECT_DIR$/.idea/PlaneCrashApi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PlaneCrashApi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9c66094f-60cf-4d30-824e-49d82eed2661" name="Changes" comment="[ Att Train_model ]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelo.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/modelo.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -229,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745044890636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[ Att Train_model ]">
+      <option name="closed" value="true" />
+      <created>1745338977456</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745338977456</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +242,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[ API + PREDICAO + CONVERT INT64 ]" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ API + PREDICAO + CONVERT INT64 ]" />
+    <MESSAGE value="[ Att Train_model ]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ Att Train_model ]" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FlaskProject$train_model.coverage" NAME="train_model Coverage Results" MODIFIED="1745044057981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

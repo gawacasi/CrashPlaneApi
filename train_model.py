@@ -65,7 +65,6 @@ y_pred = model.predict(X_test)
 print("\n📊 Relatório de Classificação:")
 print(classification_report(y_test, y_pred))
 
-
 # Salvar o modelo e encoders
 with open("modelo.pkl", "wb") as f:
     pickle.dump({
